@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/interactive-card-details-b0Ath87z_s)
+- Live Site URL: [inspiring-empanada-0a9da3.netlify.app](https://inspiring-empanada-0a9da3.netlify.app/)
 
 ## My process
 
