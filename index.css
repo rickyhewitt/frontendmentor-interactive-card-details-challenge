@@ -226,4 +226,7 @@ section.grid fieldset:first-child {
   #render_year {
     right: 22px;
   }
+  #render_number {
+    font-size: 135%;
+  }
 }
